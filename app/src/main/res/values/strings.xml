@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="get_todos">Get TODOs</string>
+    <string name="textview">TextView</string>
+    <string name="color_shades">Color Shades</string>
+    <string name="get_colors">Get Colors</string>
+    <string name="button">Button</string>
+    <string name="customer_comments_for_our_products">Customer comments for our products</string>
+    <string name="get_feedbacks">Get Feedbacks</string>
+    <string name="feedback">Feedback</string>
+</resources>
